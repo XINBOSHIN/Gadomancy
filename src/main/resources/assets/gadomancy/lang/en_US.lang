@@ -6,8 +6,8 @@ item.ItemEtherealFamiliar.name=Ethereal Familiar
 item.ItemAuraCore.name=Aura Core
 item.ItemArcanePackage.name=Arcane Package
 item.ItemElement.0.name=Element of Darkness
-item.ItemElement.1.name=[WIP] Element of Light
-item.ItemElement.2.name=[WIP] Element of Fire
+item.ItemElement.1.name=[WIPRel] Element of Light
+item.ItemElement.2.name=[WIPRel] Element of Fire
 
 gadomancy.lore.deprecation.back=Put in a crafting grid to get your items back!
 
