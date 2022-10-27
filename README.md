@@ -1,3 +1,3 @@
 # Gadomancy
-An addon for Thaumcraft: http://minecraft.curseforge.com/projects/gadomancy
+Этот репозиторий, является полным продолжением над разработкой модификации.
 
